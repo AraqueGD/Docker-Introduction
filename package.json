@@ -1,0 +1,23 @@
+{
+  "name": "docker-introduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AraqueGD/Docker-Introduction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AraqueGD/Docker-Introduction/issues"
+  },
+  "homepage": "https://github.com/AraqueGD/Docker-Introduction#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
+}
